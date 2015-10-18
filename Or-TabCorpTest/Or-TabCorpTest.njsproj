@@ -33,7 +33,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
-    <Compile Include="lib\stdinInput.js" />
     <Compile Include="lib\logger.js" />
     <Compile Include="lib\result.js" />
     <Compile Include="lib\bettingApplication.js" />
