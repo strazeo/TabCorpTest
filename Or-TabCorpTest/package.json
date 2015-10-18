@@ -1,0 +1,10 @@
+{
+  "name": "Or-TabCorpTest",
+  "version": "0.0.0",
+  "description": "Or-TabCorpTest",
+  "main": "app.js",
+  "author": {
+    "name": "Som0",
+    "email": ""
+  }
+}
